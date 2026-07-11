@@ -1,3 +1,7 @@
+# MIND dataset
+data/raw/MINDsmall/
+data/raw/MINDlarge/
+
 # Virtual environment
 .venv/
 
