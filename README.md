@@ -62,8 +62,8 @@ The dataset is excluded from this repository because of its size and licensing.
 ## Roadmap
 
 - [x] Project setup
-- [ ] Data exploration
-- [ ] Data preprocessing
+- [x] Data exploration
+- [x] Data preprocessing
 - [ ] Content-based recommender
 - [ ] Collaborative filtering
 - [ ] Hybrid recommender

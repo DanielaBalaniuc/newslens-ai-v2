@@ -33,6 +33,7 @@ data/processed/
 # Python
 # ----------------------------
 __pycache__/
+*.pyc
 *.py[cod]
 *$py.class
 
@@ -82,3 +83,5 @@ data/processed/
 # Coverage
 .coverage
 htmlcov/
+
+
