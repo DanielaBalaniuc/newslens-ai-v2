@@ -64,7 +64,7 @@ The dataset is excluded from this repository because of its size and licensing.
 - [x] Project setup
 - [x] Data exploration
 - [x] Data preprocessing
-- [ ] Content-based recommender
+- [x] Content-based recommender
 - [ ] Collaborative filtering
 - [ ] Hybrid recommender
 - [ ] Evaluation metrics
